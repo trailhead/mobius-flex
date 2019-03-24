@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name charlieplex)(type KiCad)(uri ${KIPRJMOD}/charlieplex.pretty)(options "")(descr ""))
+)
